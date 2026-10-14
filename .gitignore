@@ -1,0 +1,10 @@
+# secrets — never commit these
+credentials.json
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# local vector index (if ever saved)
+faiss_index/

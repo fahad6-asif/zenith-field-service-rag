@@ -1,0 +1,9 @@
+ticket_id,date,model,symptom,error_code,diagnosis,resolution,technician
+T-1001,2026-05-12,ZAC-18INV,"AC not cooling, shuts off",E6,"Outdoor high-pressure trip; condenser coil clogged with dust in heat","Cleaned outdoor condenser coil and cleared airflow; unit normal",Imran
+T-1007,2026-06-03,ZAC-18INV,"Trips to E6 in afternoon heat",E6,"Dirty outdoor condenser plus wall-adjacent airflow blockage","Cleaned coil; advised 30cm clearance around outdoor unit",Bilal
+T-1012,2026-04-02,ZAC-12INV,"Not cooling",E3,"Refrigerant leak at flare joint","Escalated to certified refrigerant contractor; repaired and recharged",Certified-Contractor
+T-1015,2026-04-02,ZWM-70FL,"Will not drain, water left in drum",F2,"Pump filter blocked with lint and a coin","Cleaned pump filter; checked drain hose",Sana
+T-1021,2026-07-01,ZRF-350DD,"Freezer over-frosting",,"Door gasket not sealing","Replaced door gasket",Imran
+T-1026,2026-07-05,ZAC-18INV,"E6 again during heatwave",E6,"Confirmed recurring summer pattern: dirty condenser","Coil cleaning plus customer education on clearance",Bilal
+T-1030,2026-05-22,ZWM-70FL,"Burning smell with F4",F4,"Heater overheating on a pre-2025 unit","Per SB-2026-03: replaced heater assembly; did NOT reset and restart",Sana
+T-1034,2026-06-11,ZAC-12INV,"Hissing and gas smell near outdoor unit",E3,"Suspected R-32 leak","Powered off, ventilated, escalated to certified technician",Certified-Contractor

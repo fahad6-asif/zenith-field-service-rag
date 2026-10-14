@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+qdrant-client
+fastembed
+sentence-transformers
+pandas
+streamlit
+gspread
+google-auth
